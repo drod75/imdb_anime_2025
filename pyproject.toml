@@ -1,0 +1,11 @@
+[project]
+name = "imdb-anime-2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "pandas>=3.0.6",
+    "streamlit>=1.65.0",
+]
